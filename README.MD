@@ -23,3 +23,4 @@ Initially work with Ruo Yang, Hongyou Qiu for course support.
 ### Slack & Trello
 
 ### Design Idea
+more to come
