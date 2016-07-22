@@ -1,10 +1,10 @@
-## Project Fundation
+## Project Foundation
 ---
 
 ### Motivation
-Quoting Steve Jobs, “I think everybody in this country should learn how to program a computer because it teaches you how to think.” Now that software is eating the world by automating all kinds of routine jobs, the basic knowledge of  how lines of code create the digital worlds we explore every day is becoming a fundamental digital literacy.
+The visionary Apple genius Steve Jobs once remarked, “everybody in this country should learn how to program a computer because it teaches you how to think.” Now that software is consuming the world by automating all kinds of routine jobs, the basic knowledge of how lines of code create the digital world we explore every day is becoming a fundamental part of modern digital literacy.
 Through this project, we will
-*  develope a kids-version codeacademy
+*  develop a "kids'-version codeacademy"
   *  More visual feedback
   *  More modulization
   * More playable/sharable
@@ -12,7 +12,7 @@ Through this project, we will
 ****
 
 ### Market
-Focus on Chengdu,Sichuan,China market. Projected 50,0000 * 2000 / 6 monthly income
+Focus on the Chengdu, Sichuan, China market. Projected 50,0000 * 2000 / 6 monthly income
 Initially work with Ruo Yang, Hongyou Qiu for course support.
 1000 * 2000/6 monthly income
 
