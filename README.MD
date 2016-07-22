@@ -21,6 +21,7 @@ Initially work with Ruo Yang, Hongyou Qiu for course support.
 2. When user accomplishes anything, a notification is sent to our *Wechat account* that will push a notification to send "congratulations" msg to (subscribed) parents
 
 ### Slack & Trello
+[Slack](https://projectfdt.slack.com)
 
 ### Design Idea
 more to come
